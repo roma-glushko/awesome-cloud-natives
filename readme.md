@@ -22,6 +22,10 @@ This repository collects examples of battle-tested open source Kubernetes applic
 - [KubeMQ](https://github.com/kubemq-io/kubemq-community) - cloud native message queue broker {Golang}
 - [NATS](https://github.com/nats-io/nats-server) - a simple, secure and performant messaging system for digital systems, services and devices {Golang}
 
+## Service Mashes
+
+- [Linkerd2](https://github.com/linkerd/linkerd2) - an ultralight, security-first service mesh for Kubernetes. Linkerd adds critical security, observability, and reliability features to your Kubernetes stack with no code change required {Golang}
+
 ## Networking
 
 - [Cilium](https://github.com/cilium/cilium) - eBPF-based network plugin that operates on Layer 3/4 and 7. Also, provides load balancing, bandwidth management and observability {Golang/C}
